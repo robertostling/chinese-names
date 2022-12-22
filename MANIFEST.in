@@ -1,0 +1,2 @@
+include src/chinese_names/data/*.csv
+include src/chinese_names/data/README.md
